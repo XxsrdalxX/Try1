@@ -2,11 +2,11 @@ import React from 'react';
 import { View, Text, StyleSheet, FlatList, Image, TouchableOpacity } from 'react-native';
 
 const tasks = [
-    { id: '1', hour: '12:00', task: 'Sacar basura', icon: '⚡' },
-    { id: '2', hour: '2:00', task: 'Integrales derivadas', icon: '⚡' },
-    { id: '3', hour: '4:00', task: 'Reunión importante', icon: '⚡' },
-    { id: '4', hour: '6:00', task: 'Baño y piano', icon: '🌙' },
-    { id: '5', hour: '8:00', task: 'Cenar', icon: '🌸' },
+    { id: '1', hour: '12:00', task: 'Sacar basura ⚡' },
+    { id: '2', hour: '2:00', task: 'Integrales derivadas⚡' },
+    { id: '3', hour: '4:00', task: 'Reunión importante⚡' },
+    { id: '4', hour: '6:00', task: 'Baño y piano🌙' },
+    { id: '5', hour: '8:00', task: 'Cenar 🌸 ' },
   ];
   
 
